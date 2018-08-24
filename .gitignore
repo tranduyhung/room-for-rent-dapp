@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# Built contracts
+build/contracts/
+
+# Built files
+public/css/*
+public/js/*

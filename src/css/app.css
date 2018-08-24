@@ -1,0 +1,27 @@
+html,body {
+  padding: 0 0.25em;
+}
+
+#roomTemplate {
+  display: none;
+}
+
+.room-inner {
+  border: 1px solid #eee;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+.rent-button-wrapper {
+  text-align: right;
+}
+
+#error {
+  color: red;
+  font-weight: bold;
+}
+
+.button-leave {
+  background: rgb(202, 60, 60);
+  color: white;
+}
